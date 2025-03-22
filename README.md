@@ -20,9 +20,9 @@ Hey there! I'm Pentala Akash, a tech enthusiast passionate about AI, data scienc
 
 ### 🔗 Connect with Me
 
-💼 **LinkedIn**: [Your Profile](https://www.linkedin.com/in/akash-pentala-16aa00255/)  
-📂 **GitHub**: [Your Profile](https://github.com/PENTALAAKASH)  
-📧 **Email**: [your.email@example.com](akashpentala104@gmail.com)  
+💼 **LinkedIn**: [https://www.linkedin.com/in/akash-pentala-16aa00255/](https://www.linkedin.com/in/akash-pentala-16aa00255/)  
+📂 **GitHub**: [https://github.com/PENTALAAKASH](https://github.com/PENTALAAKASH)  
+📧 **Email**: [akashpentala104@gmail.com](akashpentala104@gmail.com)  
 
 Let's collaborate and create something amazing! 🚀
 
